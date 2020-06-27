@@ -46,6 +46,3 @@ spec:
       - name: httpd-web-persistent-storage
         persistentVolumeClaim:
           claimName: httpdweb1-pv-claim
-      - name: host-os-path
-        hostPath:
-          path: /root/kubernetes
