@@ -21,6 +21,6 @@
 7. Job4 : if app is not working , then send email to developer with error messages and redeploy the application after code is being edited by the developer
 
 
-#Explanation :
+# Explanation :
 
 https://www.linkedin.com/pulse/interating-kubernetes-jenkins-suhani-arora 
