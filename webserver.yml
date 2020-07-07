@@ -41,7 +41,7 @@ spec:
           name: httpd-web
         volumeMounts:
         - name: httpd-web-persistent-storage
-          mountPath: /var/www/html
+          mountPath: /var/www/html 
       volumes:
       - name: httpd-web-persistent-storage
         persistentVolumeClaim:
